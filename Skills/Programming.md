@@ -1,147 +1,106 @@
 ## Programming fundamental concepts
 
-- Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Code
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Primitive types
-  - Feference types
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Contract
-  - Module
-  - Call stack
+  - value: 👂 heard
+  - identifier: 👂 heard
+  - variable: 👂 heard
+  - constant: 👂 heard
+  - scalar
+  - literal
+  - expression: 👂 heard
+  - heap
+  - function: 👂 heard
+  - procedure
+  - method: 👂 heard
+  - class: 👂 heard
+  - prototype
+  - event
+  - type
+  - primitive types
+  - reference types
+  - flag
+  - lexical scope
+  - code block
+  - conditions: 👂 heard
+  - loops: 👂 heard
+  - assignment
+  - regular expression
+  - interface
+  - contract
+  - module
+  - call stack
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Curry
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
-  - Generator
-  - Coroutine
+  - signature
+  - argument: 👂 heard
+  - parameter: 👂 heard
+  - pure function
+  - lambda expression
+  - side effects
+  - closure
+  - partial application
+  - curry
+  - higher order
+  - recursion
+  - callback
+  - listener
+  - compose
+  - pipe
+  - memoize
+  - wrapper
+  - functor
+  - monad
+  - monoid
+  - generator
+  - coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Cbject
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
-- Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
-  - URN
-  - URI
+  - array: 👂 heard
+  - structure
+  - record
+  - enum
+  - instance
+  - object: 👂 heard
+  - class: 👂 heard
+  - collection
+  - set
+  - hash table
+  - linked list
+  - doubly list
+  - unrolled list
+  - circular list
+  - queue
+  - stack
+  - deque
+  - tree
+  - graph
+  - iterator
+  - mutable state
+  - immutable state
+  - serialization
+  - string parsing
 - Process & style
-  - Compiler
-  - Transpiler
-  - Linter
-  - Polyfill
-  - Debugger
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Antipatterns
-  - Paradigm
-  - Magic numbers
-  - Hardcode
-  - Complexity
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
-  - Exception
-  - Return early
-  - Unittesting
-  - git
-  - Hithub
-- Standards
-  - ASCII
-  - Escape sequence
-  - RFC
-  - IETF
-  - IANA
-  - IEEE
-  - Base64
-  - ECMA
-  - ICANN
-  - ISO
-  - MIME
-  - OWASP
-  - UTF-8
-  - W3C
+  - compiler: 👂 heard
+  - transpiler
+  - linter
+  - polyfill
+  - debugger
+  - garbage collection
+  - refactoring
+  - code review
+  - antipatterns
+  - paradigm
+  - algorithm: 👂 heard
+  - magic numbers
+  - hardcode
+  - complexity
+  - decomposition
+  - spaghetti
+  - silver bullet
+  - not invented here
+  - dead code
+  - unreachable code
+  - duplicate code
+  - exception
+  - return early
+  - unittest
+  - git: 👂 heard
+  - github: 👂 heard
