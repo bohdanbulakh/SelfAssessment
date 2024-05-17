@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop k
+  - Event loop: 🎓 known
   - `try..catch`: 🖐️ used
   - Non-blocking: 👂 heard
   - Async I/O: 🖐️ used
@@ -29,9 +29,9 @@
   - Async/await: 🖐️ used
   - Future
   - Deferred
-  - Sync generator k
-  - Async Generator k
-  - Async Iterator k
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
@@ -60,8 +60,8 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - `setImmediate` u
-  - `nextTick` h
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -70,8 +70,8 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell h
-  - Promise hell h
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
@@ -81,7 +81,7 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all k
+  - Promise.all: 🎓 known
   - Promise.allSettled
   - Promise.race
   - Promise.any

@@ -12,8 +12,8 @@
   - Generic programming
   - Concurrent computing
   - Asynchronous programming: 🖐️ used
-  - Parallel programming h
-  - Reactive programming h
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -29,13 +29,13 @@
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
-  - Static method u
+  - Static method: 🖐️ used
   - Method: 🖐️ used
   - Async method: 🖐️ used
   - Getters, Setters: 🖐️ used
   - Public fields: 🖐️ used
   - Private fields: 🖐️ used
-  - Field declarations u
+  - Field declarations: 🖐️ used
   - Inheritance: 🎓 known
   - Parent class: 🎓 known
   - Polymorphism: 🎓 known
@@ -74,7 +74,7 @@
   - Proxy: 👂 heard
   - Chain of Responsibility: 👂 heard
   - Command
-  - Iterator k
+  - Iterator: 🎓 known
   - State
   - Bridge
   - Builder
