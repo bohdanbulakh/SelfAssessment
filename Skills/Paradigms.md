@@ -11,7 +11,7 @@
   - Object-based programming: 👂 heard
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming: 🖐️ used
+  - Asynchronous programming: 🖐️ used
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)

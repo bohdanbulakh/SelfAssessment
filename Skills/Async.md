@@ -66,6 +66,8 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
+  - child_process
+  - worker_threads
   - Atomics
   - High resolution clock
   - Callback hell

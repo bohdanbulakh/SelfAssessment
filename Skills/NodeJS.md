@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`: 🖐️ used
-  - Files `package.json`, `package-lock.json`: 🖐️ used
+  - Dependencies: `npm`, `node_modules`
+  - Files `package.json`, `package-lock.json`
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
