@@ -1,15 +1,15 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model k
+  - Modeling k
   - Subject domain
-  - Algorithm: 🖐️ used
+  - Algorithm e
   - Syntax: 🙋 explained
   - Semantics: 🎓 known
   - Abstraction: 🎓 known
   - Paradigm: 🎓 known
-  - Programm: 🖐️ used
+  - Programm e
   - Programming paradigm: 🖐️ used
   - Programming language: 🙋 explained
   - Contract: 🖐️ used
@@ -20,7 +20,7 @@
   - Framework: 🖐️ used
   - Platform: 🎓 known
   - Source code: 🖐️ used
-  - Object code
+  - Object code k
   - Machine code: 🎓 known
   - Microcode: 👂 heard
   - Software engineering
@@ -61,16 +61,16 @@
   - Coding conventions: 🎓 known
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
-  - Kebab case
+  - Kebab case h
   - Trailing commas: 🖐️ used
   - Return early: 🖐️ used
   - Fail-fast: 👂 heard
 - Types
   - Primitive types: 🙋 explained
-  - Reference types: 🖐️ used
-  - Type systems: 👂 heard
-  - Strong typing: 👂 heard
-  - Weak typing: 👂 heard
+  - Reference types e
+  - Type systems k
+  - Strong typing k
+  - Weak typing k
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -107,29 +107,29 @@
 - Data structures
   - Array: 🖐️ used
   - Structure: 🖐️ used
-  - Record
+  - Record h
   - Enum: 🖐️ used
   - Instance: 🖐️ used
   - Object: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
   - Hash table: 🖐️ used
-  - Linked list: 👂 heard
-  - Doubly list: 👂 heard
+  - Linked list u
+  - Doubly list u
   - Unrolled list: 👂 heard
-  - Circular list: 👂 heard
-  - Queue: 🎓 known
-  - Stack: 🎓 known
-  - Deque: 👂 heard
-  - Tree: 👂 heard
-  - Graph: 👂 heard
+  - Circular list k
+  - Queue u
+  - Stack u
+  - Deque k
+  - Tree k
+  - Graph k
   - Iterator: 👂 heard
   - Mutable state
   - Immutable state
   - Serialization: 👂 heard
   - String parsing: 👂 heard
-  - JSON: 👂 heard
-  - JSON5: 👂 heard
+  - JSON u
+  - JSON5 u
   - YAML: 👂 heard
 - Networking
   - DNS: 🎓 known
@@ -143,12 +143,12 @@
   - URI: 🎓 known
 - Process and tools
   - Compiler: 🖐️ used
-  - Just-in-time compilation
-  - Ahead-of-time compilation
-  - Transpiler: 🎓 known
+  - Just-in-time compilation k
+  - Ahead-of-time compilation k
+  - Transpiler u
   - Linter: 🖐️ used
   - Polyfill: 👂 heard
-  - Interpreter
+  - Interpreter k
   - Linker: 👂 heard
   - Dynamic linking
   - Static linking
@@ -156,10 +156,10 @@
   - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization h
   - Debugger: 🖐️ used
   - Tracing
-  - Garbage collection: 👂 heard
+  - Garbage collection k
   - Refactoring: 🖐️ used
   - Code review: 🖐️ used
   - Exception: 🖐️ used
@@ -167,18 +167,18 @@
   - git: 🖐️ used
   - Github: 🖐️ used
   - Docker: 👂 heard
-  - Kubernetes
+  - Kubernetes h
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers: 🎓 known
   - Hard code: 🎓 known
-  - Soft code
+  - Soft code k
   - Cryptic code: 🎓 known
   - Improbability factor
   - Accidental complexity: 👂 heard
   - Action at a distance: 👂 heard
-  - Spaghetti: 👂 heard
+  - Spaghetti k
   - Silver bullet: 🎓 known
   - Not invented here: 🎓 known
   - Dead code: 🎓 known
@@ -227,11 +227,11 @@
   - RFC
   - IETF
   - IANA
-  - IEEE
+  - IEEE k
   - Base64
-  - ECMA
+  - ECMA k
   - ICANN
-  - ISO: 👂 heard
+  - ISO k
   - MIME
   - OWASP
   - UTF-8: 🎓 known

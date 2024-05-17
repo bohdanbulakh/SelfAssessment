@@ -25,8 +25,8 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys u
+  - Foreign keys u
   - Transactions
   - Views
   - Subqueries
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
+  - Big data h
+  - Data analysis h
+  - AI tools h
   - Cloud databases
   - Data Visualization

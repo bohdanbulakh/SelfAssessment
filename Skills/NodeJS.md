@@ -1,33 +1,33 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js h
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Event loop phases h
+  - Event loop microtasks and macrotasks h
+  - Garbage collection k
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules: 🖐️ used
   - ECMAScript modules: 🖐️ used
-  - Module `node:module`
+  - Module `node:module` h
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` k
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection h
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 👂 heard
-  - Node.js CLI
+  - Command line arguments k
+  - Node.js CLI u
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -57,7 +57,7 @@
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Blob, File, Buffer, module `node:buffer` u
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -68,23 +68,23 @@
   - Fetch API
   - IncomingMessage
   - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - TCP/SSL k
+  - UDP k
   - TLS
-  - Websocket
+  - Websocket u
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST u
   - RPC
-  - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - Routing k
+  - DoS h
+  - DDoS h
+  - XSS h
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS k
+  - SQL injection h
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -98,21 +98,21 @@
   - Writable
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer u
+  - Console u
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer k
+  - Repository u
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - CRUD u
+  - DTO u
 - Error handling and debugging
-  - `Error`
+  - `Error` u
   - `error.cause`
-  - `error.code`
+  - `error.code` u
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
