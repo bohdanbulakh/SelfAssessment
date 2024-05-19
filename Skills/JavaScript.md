@@ -1,61 +1,61 @@
 ## JavaScript
 
 - Language
-  - `Object`: 🖐️ used
-  - `Function`: 🖐️ used
+  - `Object`: 🙋 explained
+  - `Function`: 🙋 explained
   - `Boolean`: 🙋 explained
   - `Number`: 🙋 explained
   - `BigInt`: 🎓 known
   - `String`: 🙋 explained
   - `Symbol`: 🎓 known
-  - `Infinity`: 🖐️ used
-  - `NaN`: 🖐️ used
-  - `undefined`: 🖐️ used
-  - `null`: 🖐️ used
+  - `Infinity`: 🙋 explained
+  - `NaN`: 🙋 explained
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
   - `this`: 🖐️ used
   - `instanceof`: 🖐️ used
   - `...spread`: 🙋 explained
   - `...rest`: 🙋 explained
   - `typeof`: 🖐️ used
   - Destructuring: 🙋 explained
-  - Generators: 👂 heard
+  - Generators: 🎓 known
   - Iterators: 🎓 known
-  - Async generator: 👂 heard
-  - Async iterator: 👂 heard
+  - Async generator: 🎓 known
+  - Async iterator: 🎓 known
   - Chaining: 🎓 known
   - Optional chaining: 🎓 known
   - IIFE: 🎓 known
-  - Async IIFE: 👂 heard
-  - `global`: 👂 heard
-  - `globalThis`: 👂 heard
-  - `window`: 👂 heard
+  - Async IIFE: 🎓 known
+  - `global`: 🎓 known
+  - `globalThis`: 🎓 known
+  - `window`: 🎓 known
   - Getters and setters: 🖐️ used
   - `__proto__`: 👂 heard
   - `prototype`: 🎓 known
-  - Equality operators: 🖐️ used
-  - Logical operators: 🖐️ used
-  - Logical Assignment: 🖐️ used
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Logical Assignment: 🙋 explained
   - Bitwise operators: 🎓 known
-  - Ternary operator: 🖐️ used
-  - `void`: 🖐️ used
-  - `yield`: 👂 heard
+  - Ternary operator: 🙋 explained
+  - `void`: 🙋 explained
+  - `yield`: 🎓 known
   - `await`: 🖐️ used
   - Template literal: 👂 heard
   - Strict mode: 🖐️ used
   - Hoisting: 🎓 known
   - `delete`: 🖐️ used
-  - `in`: 🖐️ used
+  - `in`: 🙋 explained
   - `super`: 🎓 known
   - `eval`: 🖐️ used
-  - `static`: 👂 heard
+  - `static`: 🙋 explained
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`: 🖐️ used
   - Property descriptors: 👂 heard
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
+  - Computed properties: 🖐️ used
   - Instance class fields
-  - Static class fields: 👂 heard
+  - Static class fields: 🖐️ used
   - Private class fields: 🖐️ used
   - Private class methods: 🖐️ used
 - Statements
@@ -65,7 +65,7 @@
   - `for`: 🙋 explained
   - `for..in`: 🙋 explained
   - `for..of`: 🙋 explained
-  - `for await`: 👂 heard
+  - `for await`: 🎓 known
   - `throw`: 🖐️ used
   - `break`: 🙋 explained
   - `continue`: 🙋 explained
@@ -79,8 +79,8 @@
   - `with`: 👂 heard
   - `new`: 🖐️ used
 - Functions
-  - Arrow function: 🖐️ used
-  - Async function: 🖐️ used
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
   - Function declaration: 🖐️ used
   - Function expression: 🎓 known
   - Default parameters: 🖐️ used
@@ -88,16 +88,16 @@
   - `Function.prototype.call`: 👂 heard
   - `Function.prototype.bind`: 🎓 known
   - `Function.prototype.apply`: 👂 heard
-  - `return`: 🖐️ used
+  - `return`: 🙋 explained
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
   - `WeakMap`: 🎓 known
   - `WeakSet`: 🎓 known
-  - Typed arrays: 👂 heard
+  - Typed arrays: 🖐️ used
   - Mixins: 👂 heard
-  - `Object.assign`: 👂 heard
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`: 👂 heard
   - `RegExp`: 👂 heard
@@ -106,8 +106,8 @@
   - `Reflect`
   - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`: 🎓 known
-  - `WeakRef`
+  - `JSON`: 🖐️ used
+  - `WeakRef`: 👂 heard
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 🖐️ used
